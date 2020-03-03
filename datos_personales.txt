@@ -1,0 +1,2 @@
+nombre: miquel puspa torres campo
+edad: 22 años
